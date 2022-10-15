@@ -4,8 +4,10 @@ import {Routes,Route,Link} from 'react-router-dom';
 import {Layout,Typography,Space} from 'antd';
 import {Navbar,Homepage,Cryptocurrencies,CryptoDetails,News} from "./components"
 function App() {
+  
   return (
     <div className="app">
+
       <div className='navbar'>
         <Navbar/>
       </div>
