@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cryptohex-master/static/css/main.42b2ff5e.css",
+    "main.js": "/cryptohex-master/static/js/main.9b8fdacb.js",
+    "static/js/787.e06f2a3a.chunk.js": "/cryptohex-master/static/js/787.e06f2a3a.chunk.js",
+    "static/media/cryptocurrency.png": "/cryptohex-master/static/media/cryptocurrency.1900c46c20438d27f2f5.png",
+    "index.html": "/cryptohex-master/index.html",
+    "main.42b2ff5e.css.map": "/cryptohex-master/static/css/main.42b2ff5e.css.map",
+    "main.9b8fdacb.js.map": "/cryptohex-master/static/js/main.9b8fdacb.js.map",
+    "787.e06f2a3a.chunk.js.map": "/cryptohex-master/static/js/787.e06f2a3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b2ff5e.css",
+    "static/js/main.9b8fdacb.js"
+  ]
+}
